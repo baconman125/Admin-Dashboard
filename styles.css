@@ -311,7 +311,7 @@
   
   .content .projects .project .color-block {
     grid-row: 1/-1;
-    background: linear-gradient(#009fff, #ec2f4b);
+    background: linear-gradient(#00BFFF, #002244);
     border-radius: 20px 0 0 20px;
     width: 75%;
   }
